@@ -5,7 +5,7 @@ from telethon import Button, events
 from R0R77 import *
 
 IMG = os.environ.get(
-    "PING_PIC", "https://telegra.ph/file/2ad68bd0e391a69163d0a.jpg"
+    "PING_PIC", "https://freenetcom.herokuapp.com/dl/1063/AgADvL8xG1U4qEs.jpg"
 )
 ms = 4
 
