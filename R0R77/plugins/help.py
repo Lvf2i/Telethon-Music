@@ -4,9 +4,9 @@ from R0R77 import R0R77, BOT_USERNAME
 btn =[
     [Button.inline("الادمن", data="admin"),],
     [Button.inline("التثبيت", data="pins"), Button.inline("التنظيف", data="purges")],
-    [Button.inline("التشغيل", data="play"), Button.inline("المحذوفين", data="zombies")],
+    [Button.inline("التشغيل الصوت", data="play"), Button.inline("المحذوفين", data="zombies")],
     [Button.inline("القفل", data="locks"), Button.inline("اخرى", data="misc")],
-    [Button.inline("الئيسية", data="start")]]
+    [Button.inline("القائمة الرئيسية", data="start")]]
 
 HELP_TEXT = "اهلا بك في قائمة اوامر سورس جمثون\n\nاضغط على الازرار من الاسفل:"
 
