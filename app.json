@@ -1,7 +1,7 @@
 {
-    "name": "Telethon Music Bot",
+    "name": "Lad Music Bot",
     "description": "Music allow you to stream music trought the telegram voice chat feature Based on Telethon.",
-    "keywords": ["JMTHON", "JMTHON-MUSIC", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music", "telethon"],
+    "keywords": ["Lad", "Lad-MUSIC", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music", "telethon"],
     "repository": "https://github.com/R0R77/Telethon-Music",
   "stack": "container",
     "env": {
@@ -17,12 +17,12 @@
         "SUPPORT": {
             "description": "ضع هنا معرف مجموعتك او قناتك بدون @",
             "required": false,
-            "value": "JMTHON"
+            "value": "meeddu"
         },
         "CHANNEL": {
             "description": "ضع معرف قناتك اذا اردت غير ذلك اتركها ",
             "required": false,
-            "value": "JMTHON"
+            "value": "f8mmm"
         },
         "BOT_USERNAME": {
             "description": "هنا ضع معرف البوت بدون @",
