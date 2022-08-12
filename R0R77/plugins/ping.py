@@ -10,7 +10,7 @@ IMG = os.environ.get(
 ms = 4
 
 ALIVE = os.environ.get(
-    "ALIVE", "f8mmm"
+    "ALIVE", "@f8mmm"
 )
 
 CAPTION = f"**سرعة البنك:** {ms}\n المالك:『{ALIVE}』"
