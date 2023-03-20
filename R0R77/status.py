@@ -1,6 +1,6 @@
 import functools
 
-def is_admin(hamoddi):
+def is_admin(func):
     @functools.wraps(func)
     async def a_c(event):
         is_admin = False
