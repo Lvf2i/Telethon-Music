@@ -19,7 +19,7 @@ for name in files:
         load_plugins(plugin_name.replace(".py", ""))
     
 print("تم تنصيب السورس بنجاح")
-print("قناة السورس @JMTHON")
+print("قناة السورس @meeddu")
 
 if __name__ == "__main__":
     R0R77.run_until_disconnected()
