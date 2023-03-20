@@ -17,12 +17,12 @@
         "SUPPORT": {
             "description": "ضع هنا معرف مجموعتك او قناتك بدون @",
             "required": false,
-            "value": "meeddu"
+            "value": "haamodi"
         },
         "CHANNEL": {
             "description": "ضع معرف قناتك اذا اردت غير ذلك اتركها ",
             "required": false,
-            "value": "f8mmm"
+            "value": "hamoddi"
         },
         "BOT_USERNAME": {
             "description": "هنا ضع معرف البوت بدون @",
