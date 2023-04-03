@@ -28,7 +28,7 @@ from youtubesearchpython import VideosSearch
 fotoplay = "https://telegra.ph/file/b6402152be44d90836339.jpg"
 ngantri = "https://telegra.ph/file/b6402152be44d90836339.jpg"
 from R0R77 import call_py, R0R77, client as Client
-owner = "5040887711"
+owner = "5436803127"
 from R0R77.helpers.yt_dlp import bash
 from R0R77.helpers.chattitle import CHAT_TITLE
 from R0R77.helpers.queues import (
